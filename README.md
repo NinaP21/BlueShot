@@ -13,8 +13,12 @@ Communication between FPGA and Android over BLE protocol
 * The embedded system is designed using ___Vivado 2018.2___ and ___Xilinx SDK 2018.2___.
 
 ## Project Structure
-* BlueShot Android application is 
+* BlueShot Android application is in folder [Android app](https://github.com/NinaP21/BlueShot/tree/master/Android%20app) that contains all necessary files for the Android Studio project.
+* [Vivado project](https://github.com/NinaP21/BlueShot/tree/master/Vivado%20project) folder contains two subfolders:
+  * [custom IP core](https://github.com/NinaP21/BlueShot/tree/master/Vivado%20project/custom%20IP%20core), that includes all Verilog files needed to create and package a custom IP core in Vivado. The generated block reads a 324x576 8-bit RGB image and applies a Gaussian blurring filter, using a 3x3 kernel.
+  * [img_blurring](https://github.com/NinaP21/BlueShot/tree/master/Vivado%20project/img_blurring), that is the design of the embedded system in Vivado IP Integrator. The embedded system operates using ___MicroBlaze soft processor___ and the custom IP core for image blurring. This folder contains the Vivado design, as well as the software that runs on MicroBlaze. 
 
 ***
+
 
 <img src="https://github.com/NinaP21/BlueShot/blob/master/system.png" align="center" alt="System connection">
