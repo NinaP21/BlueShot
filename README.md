@@ -12,3 +12,8 @@ Communication between FPGA and Android over BLE protocol
 * Bluetooth Low Energy in Arty S7-50 is supported by attaching a ___BLE Pmod___ to a Pmod connector.
 * The embedded system is designed using ___Vivado 2018.2___ and ___Xilinx SDK 2018.2___.
 
+## Project Structure
+
+
+***
+<img src="https://github.com/NinaP21/BlueShot/blob/master/system.png" align="center" alt="System connection">
