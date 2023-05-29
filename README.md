@@ -20,5 +20,4 @@ Communication between FPGA and Android over BLE protocol
 
 ***
 
-
 <img src="https://github.com/NinaP21/BlueShot/blob/master/system.png" align="center" alt="System connection">
