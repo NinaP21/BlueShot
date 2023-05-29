@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BlueShot</string>
+    <string name="subtitle">a CEID project</string>
+    <string name="about">About</string>
+    <string name="scan">Connect with FPGA</string>
+    <string name="picture">Take a picture</string>
+    <string name="upload">Upload</string>
+    <string name="edit">Edit my Picture</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="show">Show Picture</string>
+    <string name="showPlural">Show Pictures</string>
+    <string name="showLogs">Check Logs</string>
+    <string name="logsTitle">Logs</string>
+    <string name="editedImage">Back</string>
+    <string name="delete">Delete</string>
+    <string name="imagetitle">Real dimensions: 324 x 576</string>
+    <string name="after">After</string>
+    <string name="before">Before</string>
+    <string name="beforeSubtitle">Original BMP image</string>
+    <string name="afterSubtitle">Blurred BMP image using 3x3 kernel</string>
+    <string name="connTitle">BLE Connection</string>
+    <string name="mtuRow">ATT MTU</string>
+    <string name="connectionIntRow">Connection Interval</string>
+    <string name="packetsRow">#packets per Connection</string>
+    <string name="timeTitle">Time Duration</string>
+    <string name="sendRow">Sending picture</string>
+    <string name="recvRow">Receiving picture</string>
+    <string name="timeRow">Total BLE transmission</string>
+    <string name="imgTitle">Image Size</string>
+    <string name="resolRow">Pixel Resolution</string>
+    <string name="headerRow">Header bytes</string>
+    <string name="pixelsRow">Total pixel bytes</string>
+    <string name="imgRow">Total image size</string>
+</resources>

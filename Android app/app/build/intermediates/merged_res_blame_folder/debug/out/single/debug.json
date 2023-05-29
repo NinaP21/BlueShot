@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_popup_hide.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\popup_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_takepic.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\takepic.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_accept.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\accept.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_upload.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_popup_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\popup_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_previous.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxxhdpi_accept_button.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxxhdpi\\accept_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_edit.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_activity_transition_slide_in_right.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\activity_transition_slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_edit.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_reject.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\reject.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_delete.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_menuback.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\menuback.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_reject.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\reject.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-anydpi-v26_splash_round.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-anydpi-v26\\splash_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_popup_show.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\popup_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_delete.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_edit.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_next.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_scan.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_previous.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_next_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\next_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_scan.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxxhdpi_upload.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxxhdpi\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_next.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_next.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_next.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\next.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_main_foreground.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\main_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_show_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\show_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_scan.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_accept.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\accept.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_discard_button.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\discard_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxxhdpi_takepic.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxxhdpi\\takepic.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_activity_transition_slide_out_left.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\activity_transition_slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_panel_background_ok.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\panel_background_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_scan_results_recyclerview_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\scan_results_recyclerview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_upload_tick.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\upload_tick.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_reject.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\reject.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_splash_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-anydpi_accept.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-anydpi\\accept.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_upload.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_camera_button.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\camera_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_activity_transition_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\activity_transition_slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_upload_tick.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\upload_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_logs_button.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\logs_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_fpga.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_fpga.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_before_after_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\before_after_background.xml"
+    },
+    {
+        "merged": "com.example.blueshot.app-merged_res-34:/layout_activity_captured_image.xml.flat",
+        "source": "com.example.blueshot.app-main-36:/layout/activity_captured_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_takepic.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\takepic.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-anydpi-v26_splash.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-anydpi-v26\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_previous.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_takepic.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\takepic.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_scan.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_next.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_edit.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_edit.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_previous.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_upload_tick.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\upload_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_upload_tick.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\upload_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_activity_transition_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\activity_transition_slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_logs.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxxhdpi_scan.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxxhdpi\\scan.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_edited_image_background.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\edited_image_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_previous.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_upload.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_accept.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\accept.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_reject.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\reject.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_takepic.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\takepic.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_edited_image.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_edited_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxxhdpi_reject_button.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxxhdpi\\reject_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\anim_fade_out_button.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\anim\\fade_out_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xxhdpi_reject.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xxhdpi\\reject.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_splash_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_upload.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\upload.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_splash_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\splash_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-xhdpi_delete.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-hdpi_delete.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\layout_activity_captured_image.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\layout\\activity_captured_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_upload_tick.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\upload_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\drawable-mdpi_accept.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\drawable-mdpi\\accept.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_splash_foreground.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\splash_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-mdpi_back.jpg.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-mdpi\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-merged_res-34:\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\ninap\\.gradle\\daemon\\7.3.3\\com.example.blueshot.app-main-36:\\mipmap-hdpi\\logo.png"
+    }
+]

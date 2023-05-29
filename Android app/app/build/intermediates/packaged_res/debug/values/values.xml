@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="coal">#222121</color>
+    <color name="logo_background">#172023</color>
+    <color name="pale_orange">#FFCD9B</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="splash_background">#3DDC84</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00222121</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="box_height">80dp</dimen>
+    <dimen name="box_width">150dp</dimen>
+    <string name="about">About</string>
+    <string name="after">After</string>
+    <string name="afterSubtitle">Blurred BMP image using 3x3 kernel</string>
+    <string name="app_name">BlueShot</string>
+    <string name="before">Before</string>
+    <string name="beforeSubtitle">Original BMP image</string>
+    <string name="connTitle">BLE Connection</string>
+    <string name="connectionIntRow">Connection Interval</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit my Picture</string>
+    <string name="editedImage">Back</string>
+    <string name="headerRow">Header bytes</string>
+    <string name="imagetitle">Real dimensions: 324 x 576</string>
+    <string name="imgRow">Total image size</string>
+    <string name="imgTitle">Image Size</string>
+    <string name="logsTitle">Logs</string>
+    <string name="mtuRow">ATT MTU</string>
+    <string name="next">Next</string>
+    <string name="packetsRow">#packets per Connection</string>
+    <string name="picture">Take a picture</string>
+    <string name="pixelsRow">Total pixel bytes</string>
+    <string name="previous">Previous</string>
+    <string name="recvRow">Receiving picture</string>
+    <string name="resolRow">Pixel Resolution</string>
+    <string name="scan">Connect with FPGA</string>
+    <string name="sendRow">Sending picture</string>
+    <string name="show">Show Picture</string>
+    <string name="showLogs">Check Logs</string>
+    <string name="showPlural">Show Pictures</string>
+    <string name="subtitle">a CEID project</string>
+    <string name="timeRow">Total BLE transmission</string>
+    <string name="timeTitle">Time Duration</string>
+    <string name="upload">Upload</string>
+    <style name="ActionBarStyle" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="iconPadding">0dp</item>
+    </style>
+    <style name="ActionBarSubtitleStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">serif</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+    <style name="ActionBarTitleStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">28sp</item>
+        <item name="android:typeface">serif</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Animation">
+        <item name="android:windowEnterAnimation">@anim/popup_show</item>
+        <item name="android:windowExitAnimation">@anim/popup_hide</item>
+    </style>
+    <style name="CustomActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_transition_slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_transition_slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_transition_slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_transition_slide_out_right</item>
+    </style>
+    <style name="Theme.AppCompat.Translucent" parent="Theme.AppCompat.NoActionBar">
+         
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <style name="Theme.SimplePic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">#9C27B0</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/transparent</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/CustomActivityAnimation</item>
+    </style>
+    <style name="buttonMenu" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/coal</item>
+        <item name="backgroundTint">#9C27B0</item>
+    </style>
+    <style name="buttonNextPrevious" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">17sp</item>
+        <item name="fontFamily">sans-serif</item>
+    </style>
+</resources>

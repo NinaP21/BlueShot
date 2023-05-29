@@ -1,0 +1,219 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.blueshot"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:6:5-68
+11-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:6:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:7:5-74
+12-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:7:22-71
+13    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+13-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+14-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:9:5-73
+14-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:9:22-70
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+17-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:12:5-85
+17-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:12:22-82
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:13:5-65
+18-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:13:22-62
+19    <uses-permission
+19-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:14:5-16:38
+20        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+20-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:15:9-65
+21        android:maxSdkVersion="28" />
+21-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:16:9-35
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:17:5-80
+22-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:17:22-77
+23
+24    <uses-feature
+24-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:19:5-21:35
+25        android:name="android.hardware.camera.any"
+25-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:20:9-51
+26        android:required="true" />
+26-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:21:9-32
+27    <uses-feature
+27-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:22:5-24:35
+28        android:name="android.hardware.bluetooth_le"
+28-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:23:9-53
+29        android:required="true" />
+29-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:24:9-32
+30    <uses-feature android:name="android.hardware.camera.autofocus" />
+30-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:25:5-70
+30-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:25:19-67
+31
+32    <application
+32-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:27:5-87:19
+33        android:allowBackup="true"
+33-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:28:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.8.0] C:\Users\ninap\.gradle\caches\transforms-3\cd33f26b4f6a5be75c2c675ec5e179dc\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:29:9-65
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:fullBackupContent="@xml/backup_rules"
+38-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:30:9-54
+39        android:icon="@mipmap/logo"
+39-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:31:9-36
+40        android:label="@string/app_name"
+40-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:32:9-41
+41        android:requestLegacyExternalStorage="true"
+41-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:33:9-52
+42        android:roundIcon="@mipmap/logo_round"
+42-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:34:9-47
+43        android:supportsRtl="true"
+43-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:35:9-35
+44        android:testOnly="true"
+45        android:theme="@style/Theme.SimplePic" >
+45-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:36:9-47
+46        <activity
+46-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:38:9-41:65
+47            android:name="com.example.blueshot.LogsActivity"
+47-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:39:13-61
+48            android:exported="false"
+48-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:40:13-37
+49            android:theme="@style/Theme.AppCompat.Translucent" />
+49-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:41:13-63
+50        <activity
+50-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:42:9-46:66
+51            android:name="com.example.blueshot.CapturedImageActivity"
+51-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:43:13-70
+52            android:exported="false"
+52-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:44:13-37
+53            android:screenOrientation="portrait"
+53-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:45:13-49
+54            android:theme="@style/Theme.AppCompat.Translucent" />
+54-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:46:13-63
+55        <activity
+55-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:47:9-51:66
+56            android:name="com.example.blueshot.EditedImage"
+56-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:48:13-60
+57            android:exported="false"
+57-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:49:13-37
+58            android:screenOrientation="portrait"
+58-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:50:13-49
+59            android:theme="@style/Theme.AppCompat.Translucent" />
+59-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:51:13-63
+60
+61        <uses-library
+61-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:53:9-55:40
+62            android:name="org.apache.http.legacy"
+62-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:54:13-50
+63            android:required="false" />
+63-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:55:13-37
+64
+65        <activity
+65-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:57:9-60:52
+66            android:name="com.example.blueshot.FpgaActivity"
+66-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:58:13-61
+67            android:exported="false"
+67-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:59:13-37
+68            android:screenOrientation="portrait" />
+68-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:60:13-49
+69
+70        <service
+70-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:62:9-66:19
+71            android:name="com.example.blueshot.BluetoothLeService"
+71-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:63:13-67
+72            android:enabled="true"
+72-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:64:13-35
+73            android:exported="true" >
+73-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:65:13-36
+74        </service>
+75
+76        <activity
+76-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:68:9-72:52
+77            android:name="com.example.blueshot.CameraActivity"
+77-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:69:13-63
+78            android:exported="false"
+78-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:70:13-37
+79            android:parentActivityName="com.example.blueshot.MainActivity"
+79-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:71:13-75
+80            android:screenOrientation="portrait" />
+80-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:72:13-49
+81        <activity
+81-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:73:9-82:20
+82            android:name="com.example.blueshot.SplashActivity"
+82-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:74:13-63
+83            android:exported="true"
+83-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:75:13-36
+84            android:screenOrientation="portrait" >
+84-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:76:13-49
+85            <intent-filter>
+85-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:77:13-81:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:78:17-69
+86-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:78:25-66
+87
+88                <category android:name="android.intent.category.LAUNCHER" />
+88-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:80:17-77
+88-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:80:27-74
+89            </intent-filter>
+90        </activity>
+91        <activity
+91-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:83:9-86:52
+92            android:name="com.example.blueshot.MainActivity"
+92-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:84:13-61
+93            android:exported="false"
+93-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:85:13-37
+94            android:screenOrientation="portrait" />
+94-->C:\Users\ninap\AndroidStudioProjects\SimplePic\app\src\main\AndroidManifest.xml:86:13-49
+95        <activity
+95-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\d81aed8981db0eedb78da507d80b5fcb\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\d81aed8981db0eedb78da507d80b5fcb\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\d81aed8981db0eedb78da507d80b5fcb\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\d81aed8981db0eedb78da507d80b5fcb\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+99
+100        <meta-data
+100-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\2c11ccd6b3c3c648ddbafb80b3873601\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+101            android:name="com.google.android.gms.version"
+101-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\2c11ccd6b3c3c648ddbafb80b3873601\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+102            android:value="@integer/google_play_services_version" />
+102-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ninap\.gradle\caches\transforms-3\2c11ccd6b3c3c648ddbafb80b3873601\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+103
+104        <provider
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+105            android:name="androidx.startup.InitializationProvider"
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+106            android:authorities="com.example.blueshot.androidx-startup"
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+107            android:exported="false" >
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+108            <meta-data
+108-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+109                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+109-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+110                android:value="androidx.startup" />
+110-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ninap\.gradle\caches\transforms-3\5e91b023516a338285bd49f27692db4f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+111            <meta-data
+111-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ninap\.gradle\caches\transforms-3\60d66295239e7383db0bc717e0e4f288\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+112                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+112-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ninap\.gradle\caches\transforms-3\60d66295239e7383db0bc717e0e4f288\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+113                android:value="androidx.startup" />
+113-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ninap\.gradle\caches\transforms-3\60d66295239e7383db0bc717e0e4f288\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+114        </provider>
+115    </application>
+116
+117</manifest>
