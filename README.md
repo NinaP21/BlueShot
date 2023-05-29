@@ -7,5 +7,5 @@ Communication between FPGA and Android over BLE protocol
 
 ## Tools and Hardware needed
 
-..* The Android application has been developped 
+* The Android application has been developped 
 
