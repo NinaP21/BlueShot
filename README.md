@@ -7,5 +7,7 @@ Communication between FPGA and Android over BLE protocol
 
 ## Tools and Hardware needed
 
-* The Android application has been developped 
+* The Android application has been developped in Android Studio Chipmunk, 2021.2.1 and the code is written in Java. The app targets Android 13 and can operate in all SDK levels starting from Android SDK 26.
+* The development board is the Arty S7-50, that contains the Spartan-7 50 FPGA and 256 MB DDR3 SDPRAM.
+* Bluetooth Low Energy in Arty S7-50 is supported by attaching a BLE Pmod to a Pmod connector. 
 
