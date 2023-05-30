@@ -19,7 +19,7 @@ Communication between FPGA and Android over BLE protocol
   * [img_blurring](https://github.com/NinaP21/BlueShot/tree/master/Vivado%20project/img_blurring), that is the design of the embedded system in Vivado IP Integrator. The embedded system operates using ___MicroBlaze soft processor___ and the custom IP core for image blurring. This folder contains the Vivado design, as well as the software that runs on MicroBlaze. 
 
 ## Helpful Github Links
-* [image processing core in Verilog](https://github.com/vipinkmenon/SpatialFilter)
+* [Image processing core in Verilog](https://github.com/vipinkmenon/SpatialFilter)
 * [JPEG to BMP in Java](https://github.com/ultrakain/AndroidBitmapUtil/blob/master/src/com/ultrasonic/android/image/bitmap/util/AndroidBmpUtil.java)
 
 ***
